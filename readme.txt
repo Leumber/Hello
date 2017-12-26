@@ -7,4 +7,5 @@ Git line 5
 Git line 6
 Git line 7
 Git branch dev
-Git branch is quick & simple
+Git branch is quick and simple
+
