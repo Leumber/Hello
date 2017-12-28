@@ -10,3 +10,5 @@ Git branch dev
 Git branch is quick and simple
 Git fix bug issue-20171228
 
+Git stash test
+Git stash test end
