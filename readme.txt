@@ -9,3 +9,5 @@ Git line 7
 Git branch dev
 Git branch is quick and simple
 
+Git stash test
+Git stash test end
